@@ -82,7 +82,7 @@ claude mcp add --transport http japan-subsidy https://hojokin-mcp.plus-synergy.w
 - **課金版**：Apify Store の Pay Per Event（ツールコール単位で課金）
 - **原価**：データ源はすべて無料の公式APIなので、インフラ費のみ
 
-構成の詳細は各リポジトリ（[GitHub: fujimura-ui](https://github.com/fujimura-ui)）で公開しています。
+構成の詳細は各リポジトリ（[GitHub: easakura](https://github.com/easakura)）で公開しています。
 
 ## ハマった話：公開5日目、bot に無料枠を食い破られる
 
